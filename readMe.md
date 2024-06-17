@@ -7,6 +7,7 @@
 - [ ] config driven UI
 - [ ] react-router-dom v6
 - [ ] higher order functional components
+- [ ] splice
 
 
 # Projects
