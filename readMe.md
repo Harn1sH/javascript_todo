@@ -13,6 +13,7 @@
 # Node
 - [ ] middleware
 - [ ] app.use(), express.json()
+- [ ] static
 
 # Projects
 - [ ] Website clones
