@@ -14,6 +14,7 @@
 - [ ] middleware
 - [ ] app.use(), express.json()
 - [ ] static
+- [ ] multer
 
 # Projects
 - [ ] Website clones
